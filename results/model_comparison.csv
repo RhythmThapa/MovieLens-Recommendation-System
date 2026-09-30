@@ -1,0 +1,5 @@
+Model,MAE,RMSE
+User-Item Bias,0.7218,0.9108
+Item-Based Collaborative Filtering,0.7212,0.9320
+Popularity-Based,0.7887,0.9851
+Global Mean Baseline,0.9358,1.1225

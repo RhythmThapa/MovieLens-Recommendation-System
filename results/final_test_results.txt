@@ -1,0 +1,3 @@
+Model: User-Item Bias (full 200,042-rating test set)
+MAE:  0.7223
+RMSE: 0.9120
